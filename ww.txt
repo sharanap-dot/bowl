@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 helloo world 
 hello biet
 ekjfhsdgfig
+=======
+helloo worldd
+>>>>>>> 807d7904f64d486c6c305714cccee64256a88ce2
